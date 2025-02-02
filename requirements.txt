@@ -1,0 +1,6 @@
+PyQt6==6.7.1
+pygame==2.6.1
+psutil==6.1.0
+soundfile==0.12.1
+scipy==1.14.1
+numpy==2.1.3
